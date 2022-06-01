@@ -24,10 +24,11 @@
 <a href="https://www.linkedin.com/in/hetvi-soni-46a99b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hetvi Soni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Hetvi_Soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hetvi Soni" height="30" width="40" /></a>
 <a href="https://leetcode.com/hetvi_soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hetvi Soni" height="30" width="40" /></a>
-<a href="discordapp.com/users/Hetvi#7529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hetvi Soni" height="30" width="40" /></a>
+<!-- <a href="discordapp.com/users/Hetvi#7529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hetvi Soni" height="30" width="40" /></a> -->
 </p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
+<!-- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>  -->
 <p>  
   <img src = "https://github-readme-stats.vercel.app/api?username=HetviSoni&show_icons=true&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HetviSoni&theme=dark&hide_border=true" width = 400>
