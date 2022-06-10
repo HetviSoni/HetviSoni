@@ -20,7 +20,8 @@
 
 - ⚡I believe there are two ways to write error-free programs; only the third one works.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/HetviSoni'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<!-- <a href = 'https://www.github.com/HetviSoni'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
+<a href="https://www.codechef.com/users/hetvi_soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gilgamesh152" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hetvi-soni-46a99b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hetvi Soni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Hetvi_Soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hetvi Soni" height="30" width="40" /></a>
 <a href="https://leetcode.com/hetvi_soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hetvi Soni" height="30" width="40" /></a>
