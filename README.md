@@ -12,11 +12,9 @@
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 
-- 🌱 I’m currently learning Flutter 
+- 🌱  I’m looking to collaborate on Web related projects and technologies based on MERN Stack,
 
-- 👯 I’m looking to collaborate on flutter based app. 
-
-- 💬 Talk to me about JAVA, Firebase, Data Structures and Algorithms.
+- 💬 Talk to me about JAVA, Web development, Data Structures and Algorithms.
 
 - ⚡I believe there are two ways to write error-free programs; only the third one works.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
